@@ -1,0 +1,86 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (CyberVal.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\defs.h(65,1): warning C4005: 'LOBYTE': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : consulte a definição anterior de 'LOBYTE'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\defs.h(66,1): warning C4005: 'LOWORD': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : consulte a definição anterior de 'LOWORD'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\defs.h(68,1): warning C4005: 'HIBYTE': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : consulte a definição anterior de 'HIBYTE'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\defs.h(69,1): warning C4005: 'HIWORD': redefinição de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : consulte a definição anterior de 'HIWORD'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(213,14): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(218,14): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(277,67): warning C4099: 'Vector3': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(87): message : consulte a declaração de 'Vector3'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(279,63): warning C4099: 'Vector3': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(87): message : consulte a declaração de 'Vector3'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(487,17): warning C4244: '=': conversão de 'unsigned __int64' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(492,13): warning C4244: '=': conversão de 'unsigned __int64' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(495,15): warning C4244: '=': conversão de 'unsigned __int64' para 'unsigned int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(530,21): warning C4477: 'printf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'uint64_t'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(532,21): warning C4477: 'printf': a cadeia de formato '%p' requer um argumento do tipo 'void *', mas um argumento variadic 1 tem o tipo 'uint64_t'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\vectors.h(544,50): warning C4244: 'argumento': conversão de 'uint64_t' para 'const uint32_t', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,21): warning C4838: a conversão de 'float' em 'LONG' requer uma conversão de restrição
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,21): warning C4244: 'inicializando': conversão de 'float' para 'LONG', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,24): warning C4838: a conversão de 'float' em 'LONG' requer uma conversão de restrição
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,24): warning C4244: 'inicializando': conversão de 'float' para 'LONG', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,29): warning C4838: a conversão de 'float' em 'LONG' requer uma conversão de restrição
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,29): warning C4244: 'inicializando': conversão de 'float' para 'LONG', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,36): warning C4838: a conversão de 'float' em 'LONG' requer uma conversão de restrição
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(136,36): warning C4244: 'inicializando': conversão de 'float' para 'LONG', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(162,23): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(162,20): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(162,17): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(162,14): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(163,25): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(163,22): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(163,19): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(163,16): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(172,18): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(583,58): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(722,68): warning C4244: 'argumento': conversão de 'int' para 'FLOAT', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(722,41): warning C4244: 'argumento': conversão de 'int' para 'FLOAT', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(750,26): warning C4244: '=': conversão de 'double' para 'FLOAT', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(751,26): warning C4244: '=': conversão de 'double' para 'FLOAT', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(794,22): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(973,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(977,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(978,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(979,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(980,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1041,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1163,107): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1163,94): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1164,106): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1164,93): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1175,60): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1175,50): warning C4244: 'inicializando': conversão de 'float' para 'const int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1181,63): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1181,49): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1182,106): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1182,50): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1197,105): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1197,90): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1198,102): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1198,87): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1223,85): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1223,46): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1238,39): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1238,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1433,19): warning C4244: 'return': conversão de 'WPARAM' para 'unsigned int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1497,27): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1498,28): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1509,9): warning C4101: 'Msg': variável local não referenciada
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1508,10): warning C4101: 'hwnd': variável local não referenciada
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(122,45): warning C4244: 'argumento': conversão de 'const float' para 'const int', possível perda de dados
+C:\Users\PC-01\Desktop\CyberVal\CyberVal\main.cpp(1178): message : consulte a referência à instanciação 'color color::hsv_to_rgb<int>(T,T,T,const float) const' do modelo que está sendo compilada
+          with
+          [
+              T=int
+          ]
+  Gerando código
+  1 of 382 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  CyberVal.vcxproj -> C:\Users\PC-01\Desktop\CyberVal\x64\Release\test.dll
